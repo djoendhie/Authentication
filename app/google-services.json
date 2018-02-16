@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300273368580",
+    "firebase_url": "https://bebas-121f0.firebaseio.com",
+    "project_id": "bebas-121f0",
+    "storage_bucket": "bebas-121f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300273368580:android:e7b48535e01c9a68",
+        "android_client_info": {
+          "package_name": "com.example.ihsan.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300273368580-3r2uh0t67qs98afn2qehucnblak8pkv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ihsan.authentication",
+            "certificate_hash": "7d15c041c2ae980bfda538c42bd736f47ed0cccd"
+          }
+        },
+        {
+          "client_id": "300273368580-9unpo63akuao6ikp8dkoc8ia34liel0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKDL42fTg5soy-LtrKGggtlO6NOBH5bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300273368580-9unpo63akuao6ikp8dkoc8ia34liel0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
